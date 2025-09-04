@@ -78,7 +78,7 @@ This project uses:
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:Dan-Popescu/Rahulmahala25/Smart-House-Pricing.git
+   git clone https://github.com/Rahulmahala25/Smart-House-Pricing.git
    cd Rahulmahala25/Smart-House-Pricing
    ```
 
