@@ -1,4 +1,4 @@
-# Ames Houses Prices Regression
+# Smart House Pricing
 
 ## Description
 
@@ -78,8 +78,8 @@ This project uses:
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:Dan-Popescu/Ames_Houses_Prices_Regression_Notebook.git
-   cd Ames_Houses_Prices_Regression_Notebook
+   git clone git@github.com:Dan-Popescu/Rahulmahala25/Smart-House-Pricing.git
+   cd Rahulmahala25/Smart-House-Pricing
    ```
 
 2. Activate the virtual environment:
