@@ -99,7 +99,7 @@ This project uses:
 5. Launch the notebook:
 
    ```bash
-   jupyter notebook ames_houses_prices_regression.ipynb
+   jupyter notebook houses_pricing.ipynb
    ```
 
 6. Follow the steps in the notebook to execute the analysis and models.
